@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>calculator_img.png</file>
+        <file>Dtafalonso-Android-Lollipop-Calculator.512.png</file>
+    </qresource>
+</RCC>
